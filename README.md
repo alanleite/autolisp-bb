@@ -1,3 +1,3 @@
 # autolisp-bb
 
-An Autocad block library, whith group, subgroup, preview, description and pagination.
+An Autocad block library, with group, subgroup, preview, description and pagination.
